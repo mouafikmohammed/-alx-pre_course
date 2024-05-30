@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T10:45:13.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MnaFr0Ap-LcoBXjNzQ4f" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T03:42:51.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OcJRJFHXy0DBDLrO4-UK" version="24.4.9" type="github">
   <diagram name="Page-1" id="E_kH0rnilTMO4YT4p6E3">
-    <mxGraphModel dx="811" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,37 +70,37 @@
         <mxCell id="DM1_KYIYmy6NlbsBaSmz-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Application layer&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="100" y="410" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-2" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;Manages user-related interactions, Coordinates with the user&lt;br style=&quot;font-size: 12px;&quot;&gt;module in the presentation layer&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-2" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;Manages user-related interactions, Coordinates with the user&lt;br style=&quot;font-size: 12px;&quot;&gt;module in the presentation layer&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="260" y="400" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;User Module Controller&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;User Module Controller&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="260" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;User Module Controller&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;User Module Controller&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-5" value="Attendance Services" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-5" value="Attendance Services" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="260" y="530" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-6" value="External Services" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-6" value="External Services" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="490" y="530" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-7" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;Manages admin-related interactions, Coordinates with the&lt;br style=&quot;font-size: 12px;&quot;&gt;admin module in the presentation layer&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-7" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;Manages admin-related interactions, Coordinates with the&lt;br style=&quot;font-size: 12px;&quot;&gt;admin module in the presentation layer&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="480" y="400" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-8" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Attendance Record Service, User Management Service, Reporting&lt;br style=&quot;font-size: 12px;&quot;&gt;Service&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-8" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Attendance Record Service, User Management Service, Reporting&lt;br style=&quot;font-size: 12px;&quot;&gt;Service&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="250" y="570" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-9" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;Integration with Email Service&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-9" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;Integration with Email Service&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="480" y="570" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;endWidth=12.76595744680851;endSize=4.361702127659575;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;endWidth=12.76595744680851;endSize=4.361702127659575;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430.92" y="550" as="sourcePoint" />
             <mxPoint x="430" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;endWidth=12.76595744680851;endSize=4.361702127659575;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="zKv2pZpaJH7Xyr-6-tBO-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;endWidth=12.76595744680851;endSize=4.361702127659575;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430.92" y="380" as="sourcePoint" />
             <mxPoint x="430" y="340" as="targetPoint" />
